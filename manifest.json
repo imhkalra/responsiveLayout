@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Responsive Layout",
+    "description": "Breakpoints for Responsive Layout & get window size by clicking a button",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "html.png"
+    }
+  }
